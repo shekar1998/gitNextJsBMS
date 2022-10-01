@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@100;200;300&family=Roboto:wght@100;200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300;1,400;1,500&display=swap');
+
+.image_container_movie{
+    background-size: cover;
+    border-radius: 8px;
+    background-blend-mode: screen;
+    margin-top: 4%; 
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px rgb(26, 25, 25);
+    cursor: pointer;
+}
+
+.btnCustom
+{
+  font-family:sans-serif;
+  color:white;
+  text-decoration:none;
+  text-transform:uppercase;
+  letter-spacing:2.8px;
+  background-color: #1b8bf9;
+  padding:10px 20px;
+  border-width: 0px;
+  border-radius:5rem;
+  box-shadow: 1px 2.9px 16px                 rgba(27,139,249,0.4);
+  transition:0.6s cubic-bezier(0.01, 1.69,    0.99, 0.94); 
+
+}
+
+.movie_container{
+    font-family: 'Work Sans', sans-serif;
+    box-shadow: 2px 0px 5px rgb(26, 25, 25);
+    color: white !important;
+    width: 100%;
+}
+
+.val_title{
+    margin-top: 3%;
+    font-family: 'Sen', sans-serif;
+    font-size: 2.5rem !important;
+    font-weight: 700 !important;
+}
+.val_title_year{
+    margin-top: 3%;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 2.5rem !important;
+    font-weight: 300 !important;
+}
+
+.val_date{
+    font-family: 'Roboto', sans-serif;
+    margin-top:-4rem !important;
+    float: left;
+}
+
+.movie_genres li{
+    margin-top:-1.5rem !important;
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+    float: left;
+}
+
+.movie_genres::after{
+    content: ' \a0 \a0';
+}
+
+.genre_list:first-child{
+    padding-left:5.9rem !important;
+}
+
+.genre_list:not(:last-child)::after{
+    content: ', \a0';
+}
+
+.genre_list:last-child{
+    padding-right: 5px;
+}
+
+.single_movie_rating{
+    display: flex !important;
+    padding: 0px 5px;
+}
+
+.val_runtime{
+    font-family: 'Roboto', sans-serif;
+    margin-top: -4rem;
+    margin-left: 5px !important;
+}
+
+.rating_value{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    margin-top: -4%;
+    float: left;
+}
+
+.overview{
+    font-family: 'Work Sans', sans-serif;
+    float: left;
+    font-weight: 300;
+}
+
+.single_movie_rating{
+    position: relative;
+}
+
+.rating_image_container{
+    position: relative;
+}
+
+.rating_value_play{
+    font-family: 'Work Sans', sans-serif;
+    display: flex;
+    flex-direction: row;
+    margin-top: -1.1%;
+    margin-left: 4.8rem !important;
+    font-size: 20px;
+    cursor: pointer;
+    color: #ffff;
+}
+
+.rating_value_play:hover{
+    color: rgb(223, 223, 223);
+}
+
+.rating_value_play_image {
+    position: absolute;
+    margin-top: 0.5rem !important;
+    margin-left: -0.3rem;
+    padding: 0.5px;
+}
+
+.tagline{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size:16px;
+    color: rgb(170, 170, 170);
+    float: left;
+    margin-left:-4.5% ;
+}
+
+.movie_details_status{
+    list-style: none;
+}
+
+.movie_details_status_ul li{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 200;
+    padding-top: 5px;
+    font-size: 20px;
+    list-style: none;
+    display: flex;
+    margin-left: -32px ;
+}
+
+
+.original_name{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.mdb_card_main{
+    height: 22rem ;
+    background-color: rgb(43, 43, 43);
+}
+
+
+
+
+@media (max-width: 1327px) {
+    .image_container_movie{
+        width: 87% !important;
+    }
+    .card_main{
+        margin: 7rem 0% 0% 0%;
+    }
+  }
+
+  @media (max-width: 400px) {
+    .image_container_movie{
+        width: 77% !important;
+        margin: 20% auto;
+    }
+    .val_title{
+        font-size: 1.8rem !important;
+    }
+    .val_title_year{
+        font-size: 1.8rem !important;
+    }  
+    .movie_genres{
+        margin-left: 6rem;
+    }
+    .movie_genres li{
+        display: none;
+        margin: 10% 2%;
+    }
+    
+    .genre_list:first-child{
+        display: none;
+        padding-left:0rem !important;
+    }
+
+    .genre_list:last-child{
+        display: none;
+        padding-right: 0px;
+    }
+    .val_date{
+        display: none;
+        margin-top:-6.45rem !important;
+        float: left;
+    }    
+    .val_runtime{
+      display: none;
+      color: transparent;
+    }
+    .original_name{
+        
+        font-size: 12px;
+        font-weight: 200;
+    }
+    
+    .card_main{
+        margin: 55rem 20rem 0rem 17rem;
+    }
+
+    .mdb_card_main{
+        width: 50% !important;
+        height: 16rem ;
+        background-color: rgb(43, 43, 43);
+    }
+    
+    .movie_details_status_ul li:last-child{
+        margin-bottom: 10%;
+    }
+    
+}
+
+@media (max-width: 500px) {
+    .card_main{
+        margin: 33rem 0% 0% 20%;
+    }
+  }

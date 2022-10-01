@@ -1,0 +1,9 @@
+.ratings{
+    position: relative;
+    top:28%;
+    left: 2.5%;
+}
+
+.navigation_link p{
+font-weight: 200;
+}

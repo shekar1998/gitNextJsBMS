@@ -1,0 +1,38 @@
+{
+  "name": "event-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.6.2",
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@types/react-redux": "^7.1.16",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-less": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "antd": "^4.16.6",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2",
+    "evergreen-ui": "^6.0.1",
+    "hoist-non-react-statics": "^3.3.2",
+    "jquery": "^3.6.0",
+    "mdb-react-ui-kit": "^1.1.0",
+    "mdb-ui-kit": "^3.8.1",
+    "next": "11.0.1",
+    "next-images": "^1.8.1",
+    "react": "17.0.2",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "17.0.2",
+    "react-redux": "^7.2.4",
+    "react-seat-picker": "^1.5.3",
+    "react-tooltip": "^4.2.21"
+  }
+}

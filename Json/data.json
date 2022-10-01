@@ -1,0 +1,2866 @@
+[{
+  "_id": {
+    "$oid": "60c09b1b1756293ce89e91bc"
+  },
+  "Title": "Batman: The Animated Series",
+  "Year": "1992–1995",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_SX300.jpg",
+  "Ratings": "9.0",
+  "imdbID": "tt0103359",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c09dd65d26c601cc1f9e60"
+  },
+  "Title": "Superman: Doomsday",
+  "Year": "2007",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhN2RmMTUtMDMzMy00YTQ4LWEyZDMtOGM1NWVmMDE3NTBjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "Ratings": "7.0",
+  "imdbID": "tt0934706",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c09ff0095b1f599479eb35"
+  },
+  "Title": "Lois & Clark: The New Adventures of Superman",
+  "Year": "1993–1997",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+  "imdbRating": "6.7",
+  "imdbID": "tt0106057",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a007095b1f599479eb36"
+  },
+  "Title": "Superman Returns",
+  "Year": "2006",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "imdbRating": "6.0",
+  "imdbID": "tt0348150",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a01b095b1f599479eb37"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "imdbRating": "6.4",
+  "imdbID": "tt2975590",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a1e0a619a32600165ad0"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a1e0a619a32600165ad1"
+  },
+  "Title": "Superman Returns",
+  "Year": "2006",
+  "imdbID": "tt0348150",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a1e0a619a32600165ad2"
+  },
+  "Title": "Superman",
+  "Year": "1978",
+  "imdbID": "tt0078346",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a1e0a619a32600165ad3"
+  },
+  "Title": "Superman II",
+  "Year": "1980",
+  "imdbID": "tt0081573",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a1e0a619a32600165ad4"
+  },
+  "Title": "Superman III",
+  "Year": "1983",
+  "imdbID": "tt0086393",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a1e0a619a32600165ad5"
+  },
+  "Title": "Superman IV: The Quest for Peace",
+  "Year": "1987",
+  "imdbID": "tt0094074",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a1e0a619a32600165ad7"
+  },
+  "Title": "Superman/Batman: Public Enemies",
+  "Year": "2009",
+  "imdbID": "tt1398941",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a1e0a619a32600165ad6"
+  },
+  "Title": "Superman/Batman: Apocalypse",
+  "Year": "2010",
+  "imdbID": "tt1673430",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a1e0a619a32600165ad8"
+  },
+  "Title": "Lois & Clark: The New Adventures of Superman",
+  "Year": "1993–1997",
+  "imdbID": "tt0106057",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a1e0a619a32600165ad9"
+  },
+  "Title": "Superman: Doomsday",
+  "Year": "2007",
+  "imdbID": "tt0934706",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhN2RmMTUtMDMzMy00YTQ4LWEyZDMtOGM1NWVmMDE3NTBjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a2e5c67b954224e16f92"
+  },
+  "Title": "Italian Spiderman",
+  "Year": "2007",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjFhN2RjZTctMzA2Ni00NzE2LWJmYjMtNDAyYTllOTkyMmY3XkEyXkFqcGdeQXVyNTA0OTU0OTQ@._V1_SX300.jpg",
+  "imdbRating": "7.9",
+  "imdbID": "tt2705436",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a32cc67b954224e16f95"
+  },
+  "Title": "Thor",
+  "Year": "2011",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
+  "imdbRating": "7.0",
+  "imdbID": "tt0800369",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a342c67b954224e16f96"
+  },
+  "Title": "The Avengers",
+  "Year": "2012",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "imdbRating": "8.0",
+  "imdbID": "tt0848228",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a380c67b954224e16f97"
+  },
+  "Title": "Avengers: Endgame",
+  "Year": "2019",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+  "imdbRating": "8.4",
+  "imdbID": "tt4154796",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a5f0829d006200ae5673"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a5f0829d006200ae5674"
+  },
+  "Title": "Superman Returns",
+  "Year": "2006",
+  "imdbID": "tt0348150",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a5f0829d006200ae5675"
+  },
+  "Title": "Superman",
+  "Year": "1978",
+  "imdbID": "tt0078346",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a5f0829d006200ae5676"
+  },
+  "Title": "Superman II",
+  "Year": "1980",
+  "imdbID": "tt0081573",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a5f0829d006200ae5677"
+  },
+  "Title": "Superman III",
+  "Year": "1983",
+  "imdbID": "tt0086393",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a5f0829d006200ae5678"
+  },
+  "Title": "Superman IV: The Quest for Peace",
+  "Year": "1987",
+  "imdbID": "tt0094074",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a5f0829d006200ae567a"
+  },
+  "Title": "Superman/Batman: Public Enemies",
+  "Year": "2009",
+  "imdbID": "tt1398941",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a5f0829d006200ae5679"
+  },
+  "Title": "Superman/Batman: Apocalypse",
+  "Year": "2010",
+  "imdbID": "tt1673430",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a5f0829d006200ae567c"
+  },
+  "Title": "Superman: Doomsday",
+  "Year": "2007",
+  "imdbID": "tt0934706",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhN2RmMTUtMDMzMy00YTQ4LWEyZDMtOGM1NWVmMDE3NTBjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a5f0829d006200ae567b"
+  },
+  "Title": "Lois & Clark: The New Adventures of Superman",
+  "Year": "1993–1997",
+  "imdbID": "tt0106057",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8087291c85c50a2087c"
+  },
+  "Title": "The Amazing Spiderman T4 Premiere Special",
+  "Year": "2012",
+  "Poster": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt2233044",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a83e7291c85c50a2087d"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a83e7291c85c50a2087e"
+  },
+  "Title": "Superman Returns",
+  "Year": "2006",
+  "imdbID": "tt0348150",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a83e7291c85c50a2087f"
+  },
+  "Title": "Superman",
+  "Year": "1978",
+  "imdbID": "tt0078346",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a83e7291c85c50a20880"
+  },
+  "Title": "Superman II",
+  "Year": "1980",
+  "imdbID": "tt0081573",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a83e7291c85c50a20881"
+  },
+  "Title": "Superman III",
+  "Year": "1983",
+  "imdbID": "tt0086393",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a83e7291c85c50a20882"
+  },
+  "Title": "Superman IV: The Quest for Peace",
+  "Year": "1987",
+  "imdbID": "tt0094074",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a83e7291c85c50a20885"
+  },
+  "Title": "Lois & Clark: The New Adventures of Superman",
+  "Year": "1993–1997",
+  "imdbID": "tt0106057",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a83e7291c85c50a20883"
+  },
+  "Title": "Superman/Batman: Apocalypse",
+  "Year": "2010",
+  "imdbID": "tt1673430",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a83e7291c85c50a20884"
+  },
+  "Title": "Superman/Batman: Public Enemies",
+  "Year": "2009",
+  "imdbID": "tt1398941",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a83e7291c85c50a20886"
+  },
+  "Title": "Superman: Doomsday",
+  "Year": "2007",
+  "imdbID": "tt0934706",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhN2RmMTUtMDMzMy00YTQ4LWEyZDMtOGM1NWVmMDE3NTBjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8477291c85c50a20889"
+  },
+  "Title": "Batman",
+  "Year": "1989",
+  "imdbID": "tt0096895",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8477291c85c50a2088c"
+  },
+  "Title": "Batman & Robin",
+  "Year": "1997",
+  "imdbID": "tt0118688",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8477291c85c50a2088b"
+  },
+  "Title": "Batman Forever",
+  "Year": "1995",
+  "imdbID": "tt0112462",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8477291c85c50a2088e"
+  },
+  "Title": "Batman: The Animated Series",
+  "Year": "1992–1995",
+  "imdbID": "tt0103359",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8477291c85c50a2088f"
+  },
+  "Title": "Batman: Under the Red Hood",
+  "Year": "2010",
+  "imdbID": "tt1569923",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8477291c85c50a20888"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8477291c85c50a20887"
+  },
+  "Title": "Batman Begins",
+  "Year": "2005",
+  "imdbID": "tt0372784",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8477291c85c50a20890"
+  },
+  "Title": "Batman: The Dark Knight Returns, Part 1",
+  "Year": "2012",
+  "imdbID": "tt2313197",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxMDkxNDM2M15BMl5BanBnXkFtZTcwMDA5ODY1OQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8477291c85c50a2088d"
+  },
+  "Title": "The Lego Batman Movie",
+  "Year": "2017",
+  "imdbID": "tt4116284",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8477291c85c50a2088a"
+  },
+  "Title": "Batman Returns",
+  "Year": "1992",
+  "imdbID": "tt0103776",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8587291c85c50a20891"
+  },
+  "Title": "Batman Begins",
+  "Year": "2005",
+  "imdbID": "tt0372784",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8587291c85c50a2089a"
+  },
+  "Title": "Batman: The Dark Knight Returns, Part 1",
+  "Year": "2012",
+  "imdbID": "tt2313197",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxMDkxNDM2M15BMl5BanBnXkFtZTcwMDA5ODY1OQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8587291c85c50a20893"
+  },
+  "Title": "Batman",
+  "Year": "1989",
+  "imdbID": "tt0096895",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8587291c85c50a20894"
+  },
+  "Title": "Batman Returns",
+  "Year": "1992",
+  "imdbID": "tt0103776",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8587291c85c50a20895"
+  },
+  "Title": "Batman Forever",
+  "Year": "1995",
+  "imdbID": "tt0112462",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8587291c85c50a20892"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8587291c85c50a20897"
+  },
+  "Title": "The Lego Batman Movie",
+  "Year": "2017",
+  "imdbID": "tt4116284",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8587291c85c50a20898"
+  },
+  "Title": "Batman: The Animated Series",
+  "Year": "1992–1995",
+  "imdbID": "tt0103359",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8587291c85c50a20896"
+  },
+  "Title": "Batman & Robin",
+  "Year": "1997",
+  "imdbID": "tt0118688",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0a8587291c85c50a20899"
+  },
+  "Title": "Batman: Under the Red Hood",
+  "Year": "2010",
+  "imdbID": "tt1569923",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0ae277291c85c50a2089f"
+  },
+  "Title": "Superman III",
+  "Year": "1983",
+  "imdbID": "tt0086393",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0ae277291c85c50a2089b"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0ae277291c85c50a2089c"
+  },
+  "Title": "Superman Returns",
+  "Year": "2006",
+  "imdbID": "tt0348150",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0ae277291c85c50a208a0"
+  },
+  "Title": "Superman IV: The Quest for Peace",
+  "Year": "1987",
+  "imdbID": "tt0094074",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0ae277291c85c50a2089d"
+  },
+  "Title": "Superman",
+  "Year": "1978",
+  "imdbID": "tt0078346",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0ae277291c85c50a2089e"
+  },
+  "Title": "Superman II",
+  "Year": "1980",
+  "imdbID": "tt0081573",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0ae277291c85c50a208a1"
+  },
+  "Title": "Superman/Batman: Apocalypse",
+  "Year": "2010",
+  "imdbID": "tt1673430",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0ae277291c85c50a208a2"
+  },
+  "Title": "Superman/Batman: Public Enemies",
+  "Year": "2009",
+  "imdbID": "tt1398941",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0ae277291c85c50a208a3"
+  },
+  "Title": "Lois & Clark: The New Adventures of Superman",
+  "Year": "1993–1997",
+  "imdbID": "tt0106057",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0ae277291c85c50a208a4"
+  },
+  "Title": "Superman: Doomsday",
+  "Year": "2007",
+  "imdbID": "tt0934706",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhN2RmMTUtMDMzMy00YTQ4LWEyZDMtOGM1NWVmMDE3NTBjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0aed67291c85c50a208a5"
+  },
+  "Title": "Batman Begins",
+  "Year": "2005",
+  "imdbID": "tt0372784",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0aed67291c85c50a208a6"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0aed67291c85c50a208a7"
+  },
+  "Title": "Batman",
+  "Year": "1989",
+  "imdbID": "tt0096895",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0aed67291c85c50a208a8"
+  },
+  "Title": "Batman Returns",
+  "Year": "1992",
+  "imdbID": "tt0103776",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0aed67291c85c50a208a9"
+  },
+  "Title": "Batman Forever",
+  "Year": "1995",
+  "imdbID": "tt0112462",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0aed67291c85c50a208aa"
+  },
+  "Title": "Batman & Robin",
+  "Year": "1997",
+  "imdbID": "tt0118688",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0aed67291c85c50a208ae"
+  },
+  "Title": "Batman: The Dark Knight Returns, Part 1",
+  "Year": "2012",
+  "imdbID": "tt2313197",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxMDkxNDM2M15BMl5BanBnXkFtZTcwMDA5ODY1OQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0aed67291c85c50a208ab"
+  },
+  "Title": "The Lego Batman Movie",
+  "Year": "2017",
+  "imdbID": "tt4116284",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0aed67291c85c50a208ac"
+  },
+  "Title": "Batman: The Animated Series",
+  "Year": "1992–1995",
+  "imdbID": "tt0103359",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0aed67291c85c50a208ad"
+  },
+  "Title": "Batman: Under the Red Hood",
+  "Year": "2010",
+  "imdbID": "tt1569923",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0af407291c85c50a208af"
+  },
+  "Title": "Batman Begins",
+  "Year": "2005",
+  "imdbID": "tt0372784",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0af407291c85c50a208b0"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0af407291c85c50a208b1"
+  },
+  "Title": "Batman",
+  "Year": "1989",
+  "imdbID": "tt0096895",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0af407291c85c50a208b2"
+  },
+  "Title": "Batman Returns",
+  "Year": "1992",
+  "imdbID": "tt0103776",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0af407291c85c50a208b3"
+  },
+  "Title": "Batman Forever",
+  "Year": "1995",
+  "imdbID": "tt0112462",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0af407291c85c50a208b5"
+  },
+  "Title": "The Lego Batman Movie",
+  "Year": "2017",
+  "imdbID": "tt4116284",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0af407291c85c50a208b4"
+  },
+  "Title": "Batman & Robin",
+  "Year": "1997",
+  "imdbID": "tt0118688",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0af407291c85c50a208b8"
+  },
+  "Title": "Batman: The Dark Knight Returns, Part 1",
+  "Year": "2012",
+  "imdbID": "tt2313197",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxMDkxNDM2M15BMl5BanBnXkFtZTcwMDA5ODY1OQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0af407291c85c50a208b6"
+  },
+  "Title": "Batman: The Animated Series",
+  "Year": "1992–1995",
+  "imdbID": "tt0103359",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0af407291c85c50a208b7"
+  },
+  "Title": "Batman: Under the Red Hood",
+  "Year": "2010",
+  "imdbID": "tt1569923",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1db7291c85c50a208b9"
+  },
+  "Title": "Italian Spiderman",
+  "Year": "2007",
+  "imdbID": "tt2705436",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjFhN2RjZTctMzA2Ni00NzE2LWJmYjMtNDAyYTllOTkyMmY3XkEyXkFqcGdeQXVyNTA0OTU0OTQ@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1db7291c85c50a208bd"
+  },
+  "Title": "Fighting, Flying and Driving: The Stunts of Spiderman 3",
+  "Year": "2007",
+  "imdbID": "tt1132238",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNTI3NDE1ZmEtMTRiMS00YTY4LTk0OGItNjY4YmI0MDM4OGM4XkEyXkFqcGdeQXVyODE2NDgwMzM@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1db7291c85c50a208ba"
+  },
+  "Title": "Superman, Spiderman or Batman",
+  "Year": "2011",
+  "imdbID": "tt2084949",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ4MzcxNDU3N15BMl5BanBnXkFtZTgwOTE1MzMxNzE@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1db7291c85c50a208bb"
+  },
+  "Title": "Spiderman",
+  "Year": "1990",
+  "imdbID": "tt0100669",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1db7291c85c50a208bf"
+  },
+  "Title": "The Amazing Spiderman T4 Premiere Special",
+  "Year": "2012",
+  "imdbID": "tt2233044",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1db7291c85c50a208bc"
+  },
+  "Title": "Spiderman",
+  "Year": "2010",
+  "imdbID": "tt1785572",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1db7291c85c50a208be"
+  },
+  "Title": "Spiderman and Grandma",
+  "Year": "2009",
+  "imdbID": "tt1433184",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjE3Mzg0MjAxMl5BMl5BanBnXkFtZTcwNjIyODg5Mg@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1db7291c85c50a208c0"
+  },
+  "Title": "Spiderman in Cannes",
+  "Year": "2016",
+  "imdbID": "tt5978586",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDlmMGQwYmItNTNmOS00OTNkLTkxNTYtNDM3ZWVlMWUyZDIzXkEyXkFqcGdeQXVyMTA5Mzk5Mw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1db7291c85c50a208c1"
+  },
+  "Title": "Amazing Spiderman Syndrome",
+  "Year": "2012",
+  "imdbID": "tt2586634",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1db7291c85c50a208c2"
+  },
+  "Title": "Spiderman: The Beginning of a New Era",
+  "Year": "2017–",
+  "imdbID": "tt6889550",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1e67291c85c50a208c5"
+  },
+  "Title": "Spiderman",
+  "Year": "1990",
+  "imdbID": "tt0100669",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1e67291c85c50a208c3"
+  },
+  "Title": "Italian Spiderman",
+  "Year": "2007",
+  "imdbID": "tt2705436",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjFhN2RjZTctMzA2Ni00NzE2LWJmYjMtNDAyYTllOTkyMmY3XkEyXkFqcGdeQXVyNTA0OTU0OTQ@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1e67291c85c50a208c6"
+  },
+  "Title": "Spiderman",
+  "Year": "2010",
+  "imdbID": "tt1785572",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1e67291c85c50a208c4"
+  },
+  "Title": "Superman, Spiderman or Batman",
+  "Year": "2011",
+  "imdbID": "tt2084949",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ4MzcxNDU3N15BMl5BanBnXkFtZTgwOTE1MzMxNzE@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1e67291c85c50a208c7"
+  },
+  "Title": "Fighting, Flying and Driving: The Stunts of Spiderman 3",
+  "Year": "2007",
+  "imdbID": "tt1132238",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNTI3NDE1ZmEtMTRiMS00YTY4LTk0OGItNjY4YmI0MDM4OGM4XkEyXkFqcGdeQXVyODE2NDgwMzM@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1e67291c85c50a208c8"
+  },
+  "Title": "Spiderman and Grandma",
+  "Year": "2009",
+  "imdbID": "tt1433184",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjE3Mzg0MjAxMl5BMl5BanBnXkFtZTcwNjIyODg5Mg@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1e67291c85c50a208c9"
+  },
+  "Title": "The Amazing Spiderman T4 Premiere Special",
+  "Year": "2012",
+  "imdbID": "tt2233044",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1e67291c85c50a208ca"
+  },
+  "Title": "Spiderman in Cannes",
+  "Year": "2016",
+  "imdbID": "tt5978586",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDlmMGQwYmItNTNmOS00OTNkLTkxNTYtNDM3ZWVlMWUyZDIzXkEyXkFqcGdeQXVyMTA5Mzk5Mw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1e67291c85c50a208cb"
+  },
+  "Title": "Amazing Spiderman Syndrome",
+  "Year": "2012",
+  "imdbID": "tt2586634",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b1e67291c85c50a208cc"
+  },
+  "Title": "Spiderman: The Beginning of a New Era",
+  "Year": "2017–",
+  "imdbID": "tt6889550",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2077291c85c50a208cd"
+  },
+  "Title": "The Avengers",
+  "Year": "2012",
+  "imdbID": "tt0848228",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2077291c85c50a208ce"
+  },
+  "Title": "Avengers: Infinity War",
+  "Year": "2018",
+  "imdbID": "tt4154756",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2077291c85c50a208d0"
+  },
+  "Title": "Avengers: Age of Ultron",
+  "Year": "2015",
+  "imdbID": "tt2395427",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2077291c85c50a208d1"
+  },
+  "Title": "The Avengers",
+  "Year": "1998",
+  "imdbID": "tt0118661",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYWE1NTdjOWQtYTQ2Ny00Nzc5LWExYzMtNmRlOThmOTE2N2I4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2077291c85c50a208cf"
+  },
+  "Title": "Avengers: Endgame",
+  "Year": "2019",
+  "imdbID": "tt4154796",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2077291c85c50a208d2"
+  },
+  "Title": "The Avengers: Earth's Mightiest Heroes",
+  "Year": "2010–2012",
+  "imdbID": "tt1626038",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzA4ZjVhYzctZmI0NC00ZmIxLWFmYTgtOGIxMDYxODhmMGQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2077291c85c50a208d3"
+  },
+  "Title": "Ultimate Avengers: The Movie",
+  "Year": "2006",
+  "imdbID": "tt0491703",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMjk0NTMwMl5BMl5BanBnXkFtZTgwNzY0NjAwNzE@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2077291c85c50a208d4"
+  },
+  "Title": "Ultimate Avengers II",
+  "Year": "2006",
+  "imdbID": "tt0803093",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZjI3MTI5ZTYtZmNmNy00OGZmLTlhNWMtNjZiYmYzNDhlOGRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2077291c85c50a208d5"
+  },
+  "Title": "The Avengers",
+  "Year": "1961–1969",
+  "imdbID": "tt0054518",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZWQwZTdjMDUtNTY1YS00MDI0LWFkNjYtZDA4MDdmZjdlMDRlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2077291c85c50a208d6"
+  },
+  "Title": "Avengers Assemble",
+  "Year": "2012–2019",
+  "imdbID": "tt2455546",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NTUyMDQwOV5BMl5BanBnXkFtZTgwNjAwMTA0MDE@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b20f7291c85c50a208d8"
+  },
+  "Title": "Avengers: Infinity War",
+  "Year": "2018",
+  "imdbID": "tt4154756",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b20f7291c85c50a208da"
+  },
+  "Title": "Avengers: Age of Ultron",
+  "Year": "2015",
+  "imdbID": "tt2395427",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b20f7291c85c50a208db"
+  },
+  "Title": "The Avengers",
+  "Year": "1998",
+  "imdbID": "tt0118661",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYWE1NTdjOWQtYTQ2Ny00Nzc5LWExYzMtNmRlOThmOTE2N2I4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b20f7291c85c50a208dc"
+  },
+  "Title": "The Avengers: Earth's Mightiest Heroes",
+  "Year": "2010–2012",
+  "imdbID": "tt1626038",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzA4ZjVhYzctZmI0NC00ZmIxLWFmYTgtOGIxMDYxODhmMGQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b20f7291c85c50a208d9"
+  },
+  "Title": "Avengers: Endgame",
+  "Year": "2019",
+  "imdbID": "tt4154796",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b20f7291c85c50a208d7"
+  },
+  "Title": "The Avengers",
+  "Year": "2012",
+  "imdbID": "tt0848228",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b20f7291c85c50a208df"
+  },
+  "Title": "The Avengers",
+  "Year": "1961–1969",
+  "imdbID": "tt0054518",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZWQwZTdjMDUtNTY1YS00MDI0LWFkNjYtZDA4MDdmZjdlMDRlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b20f7291c85c50a208de"
+  },
+  "Title": "Ultimate Avengers II",
+  "Year": "2006",
+  "imdbID": "tt0803093",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZjI3MTI5ZTYtZmNmNy00OGZmLTlhNWMtNjZiYmYzNDhlOGRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b20f7291c85c50a208e0"
+  },
+  "Title": "Avengers Assemble",
+  "Year": "2012–2019",
+  "imdbID": "tt2455546",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NTUyMDQwOV5BMl5BanBnXkFtZTgwNjAwMTA0MDE@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b20f7291c85c50a208dd"
+  },
+  "Title": "Ultimate Avengers: The Movie",
+  "Year": "2006",
+  "imdbID": "tt0491703",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMjk0NTMwMl5BMl5BanBnXkFtZTgwNzY0NjAwNzE@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2427291c85c50a208e1"
+  },
+  "Title": "Thor",
+  "Year": "2011",
+  "imdbID": "tt0800369",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2427291c85c50a208ea"
+  },
+  "Title": "Hetjur Valhallar - Þór",
+  "Year": "2011",
+  "imdbID": "tt1241721",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxOTI1OTI0NF5BMl5BanBnXkFtZTgwMDQzMjcwMzE@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2427291c85c50a208e2"
+  },
+  "Title": "Thor: Ragnarok",
+  "Year": "2017",
+  "imdbID": "tt3501632",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2427291c85c50a208e3"
+  },
+  "Title": "Thor: The Dark World",
+  "Year": "2013",
+  "imdbID": "tt1981115",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2427291c85c50a208e5"
+  },
+  "Title": "Thor: Tales of Asgard",
+  "Year": "2011",
+  "imdbID": "tt1667903",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxOTU4NzIxMV5BMl5BanBnXkFtZTcwNzE3NjAxNQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2427291c85c50a208e4"
+  },
+  "Title": "Team Thor",
+  "Year": "2016",
+  "imdbID": "tt6016776",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZmEyODRkYmQtMjM3Yi00ZTkxLWI0NWEtOTJhMzBjNWY5MjJjXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2427291c85c50a208e6"
+  },
+  "Title": "Team Thor: Part 2",
+  "Year": "2017",
+  "imdbID": "tt6599818",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODczODMwOTgtODhkOC00YjFiLWIzYmUtZTI3NThhZDE1NDhkXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2427291c85c50a208e7"
+  },
+  "Title": "Almighty Thor",
+  "Year": "2011",
+  "imdbID": "tt1792794",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwNjI5MTAzNF5BMl5BanBnXkFtZTcwNTcyOTIwNQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2427291c85c50a208e8"
+  },
+  "Title": "Thor: Finding Korg",
+  "Year": "2018",
+  "imdbID": "tt8513006",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjI0ZmZlYzktZWNhMC00YjYwLThhZDItOGE4MTg1ZDM1YTMxXkEyXkFqcGdeQXVyNDM2MzU3Njc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0b2427291c85c50a208e9"
+  },
+  "Title": "Thor: Hammer of the Gods",
+  "Year": "2009",
+  "imdbID": "tt1260572",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNTFkMDA5ODEtMTQ1NC00NGRhLWE3ZGQtOGE5ZGJkMGI1ZDI5XkEyXkFqcGdeQXVyMjI1NjEzNjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0d522eba7ea455c86c994"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0d522eba7ea455c86c995"
+  },
+  "Title": "Superman Returns",
+  "Year": "2006",
+  "imdbID": "tt0348150",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0d522eba7ea455c86c996"
+  },
+  "Title": "Superman",
+  "Year": "1978",
+  "imdbID": "tt0078346",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0d522eba7ea455c86c997"
+  },
+  "Title": "Superman II",
+  "Year": "1980",
+  "imdbID": "tt0081573",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0d522eba7ea455c86c99b"
+  },
+  "Title": "Superman/Batman: Public Enemies",
+  "Year": "2009",
+  "imdbID": "tt1398941",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0d522eba7ea455c86c998"
+  },
+  "Title": "Superman III",
+  "Year": "1983",
+  "imdbID": "tt0086393",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0d522eba7ea455c86c999"
+  },
+  "Title": "Superman IV: The Quest for Peace",
+  "Year": "1987",
+  "imdbID": "tt0094074",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0d522eba7ea455c86c99a"
+  },
+  "Title": "Superman/Batman: Apocalypse",
+  "Year": "2010",
+  "imdbID": "tt1673430",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0d522eba7ea455c86c99c"
+  },
+  "Title": "Lois & Clark: The New Adventures of Superman",
+  "Year": "1993–1997",
+  "imdbID": "tt0106057",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c0d522eba7ea455c86c99d"
+  },
+  "Title": "Superman: Doomsday",
+  "Year": "2007",
+  "imdbID": "tt0934706",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhN2RmMTUtMDMzMy00YTQ4LWEyZDMtOGM1NWVmMDE3NTBjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10278473e09557c6c6b00"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10278473e09557c6c6b01"
+  },
+  "Title": "Superman Returns",
+  "Year": "2006",
+  "imdbID": "tt0348150",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10278473e09557c6c6b02"
+  },
+  "Title": "Superman",
+  "Year": "1978",
+  "imdbID": "tt0078346",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10278473e09557c6c6b03"
+  },
+  "Title": "Superman II",
+  "Year": "1980",
+  "imdbID": "tt0081573",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10278473e09557c6c6b04"
+  },
+  "Title": "Superman III",
+  "Year": "1983",
+  "imdbID": "tt0086393",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10278473e09557c6c6b05"
+  },
+  "Title": "Superman IV: The Quest for Peace",
+  "Year": "1987",
+  "imdbID": "tt0094074",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10278473e09557c6c6b06"
+  },
+  "Title": "Superman/Batman: Apocalypse",
+  "Year": "2010",
+  "imdbID": "tt1673430",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10278473e09557c6c6b07"
+  },
+  "Title": "Superman/Batman: Public Enemies",
+  "Year": "2009",
+  "imdbID": "tt1398941",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10278473e09557c6c6b08"
+  },
+  "Title": "Lois & Clark: The New Adventures of Superman",
+  "Year": "1993–1997",
+  "imdbID": "tt0106057",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10278473e09557c6c6b09"
+  },
+  "Title": "Superman: Doomsday",
+  "Year": "2007",
+  "imdbID": "tt0934706",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhN2RmMTUtMDMzMy00YTQ4LWEyZDMtOGM1NWVmMDE3NTBjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1027e473e09557c6c6b10"
+  },
+  "Title": "The Lego Batman Movie",
+  "Year": "2017",
+  "imdbID": "tt4116284",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1027e473e09557c6c6b13"
+  },
+  "Title": "Batman: The Dark Knight Returns, Part 1",
+  "Year": "2012",
+  "imdbID": "tt2313197",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxMDkxNDM2M15BMl5BanBnXkFtZTcwMDA5ODY1OQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1027e473e09557c6c6b11"
+  },
+  "Title": "Batman: The Animated Series",
+  "Year": "1992–1995",
+  "imdbID": "tt0103359",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1027e473e09557c6c6b0a"
+  },
+  "Title": "Batman Begins",
+  "Year": "2005",
+  "imdbID": "tt0372784",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1027e473e09557c6c6b0f"
+  },
+  "Title": "Batman & Robin",
+  "Year": "1997",
+  "imdbID": "tt0118688",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1027e473e09557c6c6b12"
+  },
+  "Title": "Batman: Under the Red Hood",
+  "Year": "2010",
+  "imdbID": "tt1569923",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1027e473e09557c6c6b0b"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1027e473e09557c6c6b0e"
+  },
+  "Title": "Batman Forever",
+  "Year": "1995",
+  "imdbID": "tt0112462",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1027e473e09557c6c6b0c"
+  },
+  "Title": "Batman",
+  "Year": "1989",
+  "imdbID": "tt0096895",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1027e473e09557c6c6b0d"
+  },
+  "Title": "Batman Returns",
+  "Year": "1992",
+  "imdbID": "tt0103776",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10293473e09557c6c6b14"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102a4473e09557c6c6b15"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102a4473e09557c6c6b16"
+  },
+  "Title": "Superman Returns",
+  "Year": "2006",
+  "imdbID": "tt0348150",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102a4473e09557c6c6b17"
+  },
+  "Title": "Superman",
+  "Year": "1978",
+  "imdbID": "tt0078346",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102a4473e09557c6c6b18"
+  },
+  "Title": "Superman II",
+  "Year": "1980",
+  "imdbID": "tt0081573",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102a4473e09557c6c6b19"
+  },
+  "Title": "Superman III",
+  "Year": "1983",
+  "imdbID": "tt0086393",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102a4473e09557c6c6b1a"
+  },
+  "Title": "Superman IV: The Quest for Peace",
+  "Year": "1987",
+  "imdbID": "tt0094074",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102a4473e09557c6c6b1b"
+  },
+  "Title": "Superman/Batman: Apocalypse",
+  "Year": "2010",
+  "imdbID": "tt1673430",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102a4473e09557c6c6b1c"
+  },
+  "Title": "Superman/Batman: Public Enemies",
+  "Year": "2009",
+  "imdbID": "tt1398941",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102a4473e09557c6c6b1e"
+  },
+  "Title": "Superman: Doomsday",
+  "Year": "2007",
+  "imdbID": "tt0934706",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhN2RmMTUtMDMzMy00YTQ4LWEyZDMtOGM1NWVmMDE3NTBjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102a4473e09557c6c6b1d"
+  },
+  "Title": "Lois & Clark: The New Adventures of Superman",
+  "Year": "1993–1997",
+  "imdbID": "tt0106057",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102aa473e09557c6c6b1f"
+  },
+  "Title": "Batman Begins",
+  "Year": "2005",
+  "imdbID": "tt0372784",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102aa473e09557c6c6b20"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102aa473e09557c6c6b21"
+  },
+  "Title": "Batman",
+  "Year": "1989",
+  "imdbID": "tt0096895",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102aa473e09557c6c6b22"
+  },
+  "Title": "Batman Returns",
+  "Year": "1992",
+  "imdbID": "tt0103776",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102aa473e09557c6c6b23"
+  },
+  "Title": "Batman Forever",
+  "Year": "1995",
+  "imdbID": "tt0112462",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102aa473e09557c6c6b24"
+  },
+  "Title": "Batman & Robin",
+  "Year": "1997",
+  "imdbID": "tt0118688",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102aa473e09557c6c6b25"
+  },
+  "Title": "The Lego Batman Movie",
+  "Year": "2017",
+  "imdbID": "tt4116284",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102aa473e09557c6c6b26"
+  },
+  "Title": "Batman: The Animated Series",
+  "Year": "1992–1995",
+  "imdbID": "tt0103359",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102aa473e09557c6c6b27"
+  },
+  "Title": "Batman: Under the Red Hood",
+  "Year": "2010",
+  "imdbID": "tt1569923",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102aa473e09557c6c6b28"
+  },
+  "Title": "Batman: The Dark Knight Returns, Part 1",
+  "Year": "2012",
+  "imdbID": "tt2313197",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxMDkxNDM2M15BMl5BanBnXkFtZTcwMDA5ODY1OQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102b2473e09557c6c6b29"
+  },
+  "Title": "Batman Begins",
+  "Year": "2005",
+  "imdbID": "tt0372784",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102b2473e09557c6c6b2a"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102b2473e09557c6c6b2b"
+  },
+  "Title": "Batman",
+  "Year": "1989",
+  "imdbID": "tt0096895",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102b2473e09557c6c6b2c"
+  },
+  "Title": "Batman Returns",
+  "Year": "1992",
+  "imdbID": "tt0103776",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102b2473e09557c6c6b2d"
+  },
+  "Title": "Batman Forever",
+  "Year": "1995",
+  "imdbID": "tt0112462",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102b2473e09557c6c6b2e"
+  },
+  "Title": "Batman & Robin",
+  "Year": "1997",
+  "imdbID": "tt0118688",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102b2473e09557c6c6b2f"
+  },
+  "Title": "The Lego Batman Movie",
+  "Year": "2017",
+  "imdbID": "tt4116284",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102b2473e09557c6c6b30"
+  },
+  "Title": "Batman: The Animated Series",
+  "Year": "1992–1995",
+  "imdbID": "tt0103359",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102b2473e09557c6c6b31"
+  },
+  "Title": "Batman: Under the Red Hood",
+  "Year": "2010",
+  "imdbID": "tt1569923",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c102b2473e09557c6c6b32"
+  },
+  "Title": "Batman: The Dark Knight Returns, Part 1",
+  "Year": "2012",
+  "imdbID": "tt2313197",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxMDkxNDM2M15BMl5BanBnXkFtZTcwMDA5ODY1OQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10310473e09557c6c6b36"
+  },
+  "Title": "Superman II",
+  "Year": "1980",
+  "imdbID": "tt0081573",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10310473e09557c6c6b35"
+  },
+  "Title": "Superman",
+  "Year": "1978",
+  "imdbID": "tt0078346",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10310473e09557c6c6b34"
+  },
+  "Title": "Superman Returns",
+  "Year": "2006",
+  "imdbID": "tt0348150",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10310473e09557c6c6b38"
+  },
+  "Title": "Superman IV: The Quest for Peace",
+  "Year": "1987",
+  "imdbID": "tt0094074",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10310473e09557c6c6b33"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10310473e09557c6c6b37"
+  },
+  "Title": "Superman III",
+  "Year": "1983",
+  "imdbID": "tt0086393",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10310473e09557c6c6b3b"
+  },
+  "Title": "Lois & Clark: The New Adventures of Superman",
+  "Year": "1993–1997",
+  "imdbID": "tt0106057",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10310473e09557c6c6b3a"
+  },
+  "Title": "Superman/Batman: Public Enemies",
+  "Year": "2009",
+  "imdbID": "tt1398941",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10310473e09557c6c6b39"
+  },
+  "Title": "Superman/Batman: Apocalypse",
+  "Year": "2010",
+  "imdbID": "tt1673430",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10310473e09557c6c6b3c"
+  },
+  "Title": "Superman: Doomsday",
+  "Year": "2007",
+  "imdbID": "tt0934706",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhN2RmMTUtMDMzMy00YTQ4LWEyZDMtOGM1NWVmMDE3NTBjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10315473e09557c6c6b3d"
+  },
+  "Title": "Batman Begins",
+  "Year": "2005",
+  "imdbID": "tt0372784",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10315473e09557c6c6b3e"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10315473e09557c6c6b3f"
+  },
+  "Title": "Batman",
+  "Year": "1989",
+  "imdbID": "tt0096895",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10315473e09557c6c6b40"
+  },
+  "Title": "Batman Returns",
+  "Year": "1992",
+  "imdbID": "tt0103776",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10315473e09557c6c6b41"
+  },
+  "Title": "Batman Forever",
+  "Year": "1995",
+  "imdbID": "tt0112462",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10315473e09557c6c6b42"
+  },
+  "Title": "Batman & Robin",
+  "Year": "1997",
+  "imdbID": "tt0118688",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10315473e09557c6c6b43"
+  },
+  "Title": "The Lego Batman Movie",
+  "Year": "2017",
+  "imdbID": "tt4116284",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10315473e09557c6c6b44"
+  },
+  "Title": "Batman: The Animated Series",
+  "Year": "1992–1995",
+  "imdbID": "tt0103359",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10315473e09557c6c6b45"
+  },
+  "Title": "Batman: Under the Red Hood",
+  "Year": "2010",
+  "imdbID": "tt1569923",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10315473e09557c6c6b46"
+  },
+  "Title": "Batman: The Dark Knight Returns, Part 1",
+  "Year": "2012",
+  "imdbID": "tt2313197",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxMDkxNDM2M15BMl5BanBnXkFtZTcwMDA5ODY1OQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1031d473e09557c6c6b47"
+  },
+  "Title": "Italian Spiderman",
+  "Year": "2007",
+  "imdbID": "tt2705436",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjFhN2RjZTctMzA2Ni00NzE2LWJmYjMtNDAyYTllOTkyMmY3XkEyXkFqcGdeQXVyNTA0OTU0OTQ@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1031d473e09557c6c6b48"
+  },
+  "Title": "Superman, Spiderman or Batman",
+  "Year": "2011",
+  "imdbID": "tt2084949",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ4MzcxNDU3N15BMl5BanBnXkFtZTgwOTE1MzMxNzE@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1031d473e09557c6c6b49"
+  },
+  "Title": "Spiderman",
+  "Year": "1990",
+  "imdbID": "tt0100669",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1031d473e09557c6c6b4a"
+  },
+  "Title": "Spiderman",
+  "Year": "2010",
+  "imdbID": "tt1785572",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1031d473e09557c6c6b4b"
+  },
+  "Title": "Fighting, Flying and Driving: The Stunts of Spiderman 3",
+  "Year": "2007",
+  "imdbID": "tt1132238",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNTI3NDE1ZmEtMTRiMS00YTY4LTk0OGItNjY4YmI0MDM4OGM4XkEyXkFqcGdeQXVyODE2NDgwMzM@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1031d473e09557c6c6b4c"
+  },
+  "Title": "Spiderman and Grandma",
+  "Year": "2009",
+  "imdbID": "tt1433184",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjE3Mzg0MjAxMl5BMl5BanBnXkFtZTcwNjIyODg5Mg@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1031d473e09557c6c6b4d"
+  },
+  "Title": "The Amazing Spiderman T4 Premiere Special",
+  "Year": "2012",
+  "imdbID": "tt2233044",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1031d473e09557c6c6b4e"
+  },
+  "Title": "Spiderman in Cannes",
+  "Year": "2016",
+  "imdbID": "tt5978586",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDlmMGQwYmItNTNmOS00OTNkLTkxNTYtNDM3ZWVlMWUyZDIzXkEyXkFqcGdeQXVyMTA5Mzk5Mw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1031d473e09557c6c6b4f"
+  },
+  "Title": "Amazing Spiderman Syndrome",
+  "Year": "2012",
+  "imdbID": "tt2586634",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1031d473e09557c6c6b50"
+  },
+  "Title": "Spiderman: The Beginning of a New Era",
+  "Year": "2017–",
+  "imdbID": "tt6889550",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10322473e09557c6c6b51"
+  },
+  "Title": "Captain America: The First Avenger",
+  "Year": "2011",
+  "imdbID": "tt0458339",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10322473e09557c6c6b52"
+  },
+  "Title": "The Toxic Avenger",
+  "Year": "1984",
+  "imdbID": "tt0090190",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzViNmQ5MTYtMmI4Yy00N2Y2LTg4NWUtYWU3MThkMTVjNjk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10322473e09557c6c6b53"
+  },
+  "Title": "The Toxic Avenger Part II",
+  "Year": "1989",
+  "imdbID": "tt0098503",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODhiNTljYTctMmIzZC00ZGVkLTk2NmItN2RjMzY3ZTYyNDczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10322473e09557c6c6b54"
+  },
+  "Title": "Citizen Toxie: The Toxic Avenger IV",
+  "Year": "2000",
+  "imdbID": "tt0212879",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMWI0NWY0ODUtNGY3Yy00ZDU1LTllYjUtMDFkYWEzZGQwY2I1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10322473e09557c6c6b55"
+  },
+  "Title": "The Toxic Avenger Part III: The Last Temptation of Toxie",
+  "Year": "1989",
+  "imdbID": "tt0098502",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjVlNzFjMGItMTEwYy00OTc0LWFmY2ItM2U0MmQyYWI5Njk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10322473e09557c6c6b56"
+  },
+  "Title": "Avenger",
+  "Year": "2006",
+  "imdbID": "tt0473445",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzMjMwMjcyNl5BMl5BanBnXkFtZTcwNTA1NDgzMQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10322473e09557c6c6b58"
+  },
+  "Title": "The Avenger",
+  "Year": "1962",
+  "imdbID": "tt0056174",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjNmOTEzN2YtYTcyMC00NDQ1LTg5NTMtMjQ3M2ZlOGU2YmFkXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10322473e09557c6c6b57"
+  },
+  "Title": "Samurai Avenger: The Blind Wolf",
+  "Year": "2009",
+  "imdbID": "tt1243972",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwNjc4MTkyNjBeQTJeQWpwZ15BbWU3MDg3NTQyMzI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10322473e09557c6c6b59"
+  },
+  "Title": "The Avenger",
+  "Year": "1960",
+  "imdbID": "tt0054257",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzU5YzM3MmEtNTE2MS00MzVjLWI5Y2EtNGU3M2YwMGYzMGQ0XkEyXkFqcGdeQXVyMDExMzA0Mw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10322473e09557c6c6b5a"
+  },
+  "Title": "The masked avenger: Lagardère",
+  "Year": "2003–",
+  "imdbID": "tt0397508",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODQ5ZmYzZTktNTYzOS00YTVjLWFkODItZmY1MzI0NGYzYTlhXkEyXkFqcGdeQXVyMjgxMTkzOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1032f473e09557c6c6b5b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c103ef473e09557c6c6b5c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c104ae473e09557c6c6b5d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10561473e09557c6c6b5f"
+  },
+  "Title": "Superman Returns",
+  "Year": "2006",
+  "imdbID": "tt0348150",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10561473e09557c6c6b60"
+  },
+  "Title": "Superman",
+  "Year": "1978",
+  "imdbID": "tt0078346",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10561473e09557c6c6b62"
+  },
+  "Title": "Superman III",
+  "Year": "1983",
+  "imdbID": "tt0086393",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10561473e09557c6c6b61"
+  },
+  "Title": "Superman II",
+  "Year": "1980",
+  "imdbID": "tt0081573",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10561473e09557c6c6b63"
+  },
+  "Title": "Superman IV: The Quest for Peace",
+  "Year": "1987",
+  "imdbID": "tt0094074",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10561473e09557c6c6b5e"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10561473e09557c6c6b64"
+  },
+  "Title": "Superman/Batman: Apocalypse",
+  "Year": "2010",
+  "imdbID": "tt1673430",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10561473e09557c6c6b65"
+  },
+  "Title": "Superman/Batman: Public Enemies",
+  "Year": "2009",
+  "imdbID": "tt1398941",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10561473e09557c6c6b66"
+  },
+  "Title": "Lois & Clark: The New Adventures of Superman",
+  "Year": "1993–1997",
+  "imdbID": "tt0106057",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10561473e09557c6c6b67"
+  },
+  "Title": "Superman: Doomsday",
+  "Year": "2007",
+  "imdbID": "tt0934706",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhN2RmMTUtMDMzMy00YTQ4LWEyZDMtOGM1NWVmMDE3NTBjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1056a473e09557c6c6b68"
+  },
+  "Title": "Batman Begins",
+  "Year": "2005",
+  "imdbID": "tt0372784",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1056a473e09557c6c6b69"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1056a473e09557c6c6b6a"
+  },
+  "Title": "Batman",
+  "Year": "1989",
+  "imdbID": "tt0096895",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1056a473e09557c6c6b6c"
+  },
+  "Title": "Batman Forever",
+  "Year": "1995",
+  "imdbID": "tt0112462",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1056a473e09557c6c6b6d"
+  },
+  "Title": "Batman & Robin",
+  "Year": "1997",
+  "imdbID": "tt0118688",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1056a473e09557c6c6b6b"
+  },
+  "Title": "Batman Returns",
+  "Year": "1992",
+  "imdbID": "tt0103776",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1056a473e09557c6c6b71"
+  },
+  "Title": "Batman: The Dark Knight Returns, Part 1",
+  "Year": "2012",
+  "imdbID": "tt2313197",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxMDkxNDM2M15BMl5BanBnXkFtZTcwMDA5ODY1OQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1056a473e09557c6c6b6e"
+  },
+  "Title": "The Lego Batman Movie",
+  "Year": "2017",
+  "imdbID": "tt4116284",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1056a473e09557c6c6b6f"
+  },
+  "Title": "Batman: The Animated Series",
+  "Year": "1992–1995",
+  "imdbID": "tt0103359",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1056a473e09557c6c6b70"
+  },
+  "Title": "Batman: Under the Red Hood",
+  "Year": "2010",
+  "imdbID": "tt1569923",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10572473e09557c6c6b72"
+  },
+  "Title": "Harry Potter and the Deathly Hallows: Part 2",
+  "Year": "2011",
+  "imdbID": "tt1201607",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10572473e09557c6c6b73"
+  },
+  "Title": "Harry Potter and the Sorcerer's Stone",
+  "Year": "2001",
+  "imdbID": "tt0241527",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10572473e09557c6c6b75"
+  },
+  "Title": "Harry Potter and the Prisoner of Azkaban",
+  "Year": "2004",
+  "imdbID": "tt0304141",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10572473e09557c6c6b76"
+  },
+  "Title": "Harry Potter and the Goblet of Fire",
+  "Year": "2005",
+  "imdbID": "tt0330373",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10572473e09557c6c6b77"
+  },
+  "Title": "Harry Potter and the Order of the Phoenix",
+  "Year": "2007",
+  "imdbID": "tt0373889",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10572473e09557c6c6b74"
+  },
+  "Title": "Harry Potter and the Chamber of Secrets",
+  "Year": "2002",
+  "imdbID": "tt0295297",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10572473e09557c6c6b7b"
+  },
+  "Title": "Dirty Harry",
+  "Year": "1971",
+  "imdbID": "tt0066999",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzdhMTM2YTItOWU2YS00MTM0LTgyNDYtMDM1OWM3NzkzNTM2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10572473e09557c6c6b78"
+  },
+  "Title": "Harry Potter and the Deathly Hallows: Part 1",
+  "Year": "2010",
+  "imdbID": "tt0926084",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10572473e09557c6c6b79"
+  },
+  "Title": "Harry Potter and the Half-Blood Prince",
+  "Year": "2009",
+  "imdbID": "tt0417741",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10572473e09557c6c6b7a"
+  },
+  "Title": "When Harry Met Sally...",
+  "Year": "1989",
+  "imdbID": "tt0098635",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10927473e09557c6c6b7c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10a87473e09557c6c6b7d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c10bcb473e09557c6c6b7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6f8ef30bf44662c387ec3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6f9e66ed6265590772e91"
+  },
+  "Title": "Batman Begins",
+  "Year": "2005",
+  "imdbID": "tt0372784",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6f9e66ed6265590772e92"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6f9e66ed6265590772e93"
+  },
+  "Title": "Batman",
+  "Year": "1989",
+  "imdbID": "tt0096895",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6f9e66ed6265590772e94"
+  },
+  "Title": "Batman Returns",
+  "Year": "1992",
+  "imdbID": "tt0103776",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6f9e66ed6265590772e95"
+  },
+  "Title": "Batman Forever",
+  "Year": "1995",
+  "imdbID": "tt0112462",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6f9e66ed6265590772e96"
+  },
+  "Title": "Batman & Robin",
+  "Year": "1997",
+  "imdbID": "tt0118688",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6f9e66ed6265590772e97"
+  },
+  "Title": "The Lego Batman Movie",
+  "Year": "2017",
+  "imdbID": "tt4116284",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6f9e66ed6265590772e98"
+  },
+  "Title": "Batman: The Animated Series",
+  "Year": "1992–1995",
+  "imdbID": "tt0103359",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6f9e66ed6265590772e9a"
+  },
+  "Title": "Batman: The Dark Knight Returns, Part 1",
+  "Year": "2012",
+  "imdbID": "tt2313197",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxMDkxNDM2M15BMl5BanBnXkFtZTcwMDA5ODY1OQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6f9e66ed6265590772e99"
+  },
+  "Title": "Batman: Under the Red Hood",
+  "Year": "2010",
+  "imdbID": "tt1569923",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6fb9d6ed6265590772e9d"
+  },
+  "Title": "Superman",
+  "Year": "1978",
+  "imdbID": "tt0078346",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6fb9d6ed6265590772e9b"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6fb9d6ed6265590772ea3"
+  },
+  "Title": "Lois & Clark: The New Adventures of Superman",
+  "Year": "1993–1997",
+  "imdbID": "tt0106057",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6fb9d6ed6265590772ea2"
+  },
+  "Title": "Superman/Batman: Public Enemies",
+  "Year": "2009",
+  "imdbID": "tt1398941",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6fb9d6ed6265590772e9e"
+  },
+  "Title": "Superman II",
+  "Year": "1980",
+  "imdbID": "tt0081573",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6fb9d6ed6265590772e9c"
+  },
+  "Title": "Superman Returns",
+  "Year": "2006",
+  "imdbID": "tt0348150",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6fb9d6ed6265590772ea1"
+  },
+  "Title": "Superman/Batman: Apocalypse",
+  "Year": "2010",
+  "imdbID": "tt1673430",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6fb9d6ed6265590772ea4"
+  },
+  "Title": "Superman: Doomsday",
+  "Year": "2007",
+  "imdbID": "tt0934706",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhN2RmMTUtMDMzMy00YTQ4LWEyZDMtOGM1NWVmMDE3NTBjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6fb9d6ed6265590772e9f"
+  },
+  "Title": "Superman III",
+  "Year": "1983",
+  "imdbID": "tt0086393",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c6fb9d6ed6265590772ea0"
+  },
+  "Title": "Superman IV: The Quest for Peace",
+  "Year": "1987",
+  "imdbID": "tt0094074",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3db4fc3f864fc04a0e0c"
+  },
+  "Title": "Zeg 'ns Aaa",
+  "Year": "1981–2010",
+  "imdbID": "tt0062614",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDEyZmE2MTgtNzZiYy00NWIwLWFjZWEtMjZjNDk4MjVhYmNlXkEyXkFqcGdeQXVyNjUyMTgxNjA@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3db4fc3f864fc04a0e0d"
+  },
+  "Title": "A.A.A. Massaggiatrice bella presenza offresi...",
+  "Year": "1972",
+  "imdbID": "tt0068162",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3ZDU2ZjAtMDQ4NS00ZDA4LTkwMmItNmI5M2NiMjZjYWIyXkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3db4fc3f864fc04a0e0e"
+  },
+  "Title": "A.A.A. Achille",
+  "Year": "2003",
+  "imdbID": "tt0264330",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDFmZDc1MzMtNzY5My00YjY4LTg4NTMtZTE5ZWMxYTllYzI1XkEyXkFqcGdeQXVyMDk2Mzc2MA@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3db4fc3f864fc04a0e0f"
+  },
+  "Title": "AAA, la película: Sin límite en el tiempo",
+  "Year": "2010",
+  "imdbID": "tt1484065",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNGI3Njg1ODctMmZjMi00MDI1LThmZDYtNmY1ZmMwMTYyM2ZjXkEyXkFqcGdeQXVyMjgzNjA3Mw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3db4fc3f864fc04a0e10"
+  },
+  "Title": "AAA Championships at Fartown, Huddersfield",
+  "Year": "1901",
+  "imdbID": "tt1669078",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTMwNjcwMjQ2Ml5BMl5BanBnXkFtZTcwMjc2OTY1Mw@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3db4fc3f864fc04a0e11"
+  },
+  "Title": "Las aAA son las tres armas",
+  "Year": "1979",
+  "imdbID": "tt0307911",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTZkY2ZjZGUtYjMwOC00OTM0LWEwYmUtOGJjNjk4NTVmMjliXkEyXkFqcGdeQXVyMjQ0NzgwNzY@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3db4fc3f864fc04a0e14"
+  },
+  "Title": "Crocotires Traction AAA",
+  "Year": "2000",
+  "imdbID": "tt0286565",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzM1ZTc3MDctNzRiYS00YjU2LWJmZTYtMmQzMDZjM2E4Mzg0XkEyXkFqcGdeQXVyMTkwMjgwNzY@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3db4fc3f864fc04a0e12"
+  },
+  "Title": "AAA When Worlds Collide",
+  "Year": "1994",
+  "imdbID": "tt0356319",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ1YzQ5NzMtNGQ4MS00MTRhLWEwNjItNzdkODViOTViY2UxL2ltYWdlXkEyXkFqcGdeQXVyMzIxNTI3MTE@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3db4fc3f864fc04a0e13"
+  },
+  "Title": "Aaa Re Saathi Aa",
+  "Year": "2009",
+  "imdbID": "tt1459820",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3db4fc3f864fc04a0e15"
+  },
+  "Title": "AAA: Rey de reyes",
+  "Year": "2008",
+  "imdbID": "tt1610295",
+  "Poster": "N/A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3dbafc3f864fc04a0e16"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3dcefc3f864fc04a0e17"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3e2afc3f864fc04a0e18"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3f91fc3f864fc04a0e19"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce3ffefc3f864fc04a0e1a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce9e09b61e6b44840a04dc"
+  },
+  "Title": "Batman v Superman: Dawn of Justice",
+  "Year": "2016",
+  "imdbID": "tt2975590",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce9e09b61e6b44840a04dd"
+  },
+  "Title": "Superman Returns",
+  "Year": "2006",
+  "imdbID": "tt0348150",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce9e09b61e6b44840a04de"
+  },
+  "Title": "Superman",
+  "Year": "1978",
+  "imdbID": "tt0078346",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce9e09b61e6b44840a04df"
+  },
+  "Title": "Superman II",
+  "Year": "1980",
+  "imdbID": "tt0081573",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce9e09b61e6b44840a04e0"
+  },
+  "Title": "Superman III",
+  "Year": "1983",
+  "imdbID": "tt0086393",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce9e09b61e6b44840a04e1"
+  },
+  "Title": "Superman IV: The Quest for Peace",
+  "Year": "1987",
+  "imdbID": "tt0094074",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce9e09b61e6b44840a04e2"
+  },
+  "Title": "Superman/Batman: Apocalypse",
+  "Year": "2010",
+  "imdbID": "tt1673430",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce9e09b61e6b44840a04e4"
+  },
+  "Title": "Lois & Clark: The New Adventures of Superman",
+  "Year": "1993–1997",
+  "imdbID": "tt0106057",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce9e09b61e6b44840a04e3"
+  },
+  "Title": "Superman/Batman: Public Enemies",
+  "Year": "2009",
+  "imdbID": "tt1398941",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ce9e09b61e6b44840a04e5"
+  },
+  "Title": "Superman: Doomsday",
+  "Year": "2007",
+  "imdbID": "tt0934706",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhN2RmMTUtMDMzMy00YTQ4LWEyZDMtOGM1NWVmMDE3NTBjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+  "__v": 0
+}]
